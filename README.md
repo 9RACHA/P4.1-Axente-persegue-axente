@@ -13,5 +13,7 @@ Tanto a distancia como o ángulo deben ser atributos públicos do obxecto. Escol
 Entregables:
 
 Sube o enderezo do repositorio
+
 Cando remates a práctica chama ao profesor para que a revise
+
 Se a entregas tardíamente chama ao profesor para que a revise tamén
