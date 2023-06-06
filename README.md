@@ -10,6 +10,7 @@ O axente persegue se o target está dentro dunha distancia determinada e nun án
 Modifica o código do punto 3 no que utilices estados. [En git aplica o tag P.4.1.4] 
 
 Crea 3 botóns para escoller o tipo de axente perseguidor. [En git aplica o tag P.4.1.5] (opcional)
+
 Engade un estado centinela, no que o axente perseguidor vaia sempre dun punto a outro en vez de estar sempre en repouso. Cando chegue a calquera deses dous puntos, debe facer unha pausa de 5 segundos (estado STOP). Podes complicar a "garda" do centinela todo o que queiras. [En git aplica o tag P.4.1.6] (opcional)
 
 Engade raios que delimiten o campo de visión creado no punto 3 para ver gráficamente se o axente a perseguir está dentro do campo ou non. [En git aplica o tag P.4.1.7] (opcional)
